@@ -1,0 +1,1 @@
+start powershell .\restore_playlist.ps1 -clientId '<YOUR_CLIENT_ID>' -clientSecret '<YOUR_CLIENT_SECRET>' -playlistId '<PLAYLIST_ID>' -playlistTitle '<PLAYLIST_TITLE>' -playlistDescription '<PLAYLIST_DESCRIPTION>' -playlistImage '<PLAYLIST.JPG>'
